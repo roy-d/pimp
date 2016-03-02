@@ -1,0 +1,1 @@
+Demonstrate a simple pimp called `MatrixOps` inside a package object 
